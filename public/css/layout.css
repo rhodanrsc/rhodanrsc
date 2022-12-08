@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -354,6 +354,36 @@ ul#nav li.current a { color: #F06000; }
   	width: 50%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
+}
+
+.javascript {
+   width: 85%;
+  	-moz-animation: javascript 2s ease;
+  	-webkit-animation: javascript 2s ease;
+}
+
+.reactjs {
+   width: 75%;
+  	-moz-animation: reactjs 2s ease;
+  	-webkit-animation: reactjs 2s ease;
+}
+
+.java {
+   width: 90%;
+  	-moz-animation: java 2s ease;
+  	-webkit-animation: java 2s ease;
+}
+
+.sql {
+   width: 70%;
+  	-moz-animation: sql 2s ease;
+  	-webkit-animation: sql 2s ease;
+}
+
+.python {
+   width: 50%;
+  	-moz-animation: python 2s ease;
+  	-webkit-animation: python 2s ease;
 }
 
 @-moz-keyframes photoshop {
