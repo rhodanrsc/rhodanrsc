@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.6e556da7.chunk.css",
-  "main.js": "/static/js/main.86b733f0.chunk.js",
-  "main.js.map": "/static/js/main.86b733f0.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "/static/js/1.6eb6405c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.6e556da7.chunk.css.map": "/static/css/main.6e556da7.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.39e98f9503e9ca68e2d5f6cb511deb98.js": "/precache-manifest.39e98f9503e9ca68e2d5f6cb511deb98.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/rhodanrsc/static/css/main.6e556da7.chunk.css",
+  "main.js": "/rhodanrsc/static/js/main.af696e58.chunk.js",
+  "main.js.map": "/rhodanrsc/static/js/main.af696e58.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/rhodanrsc/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/rhodanrsc/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/rhodanrsc/static/js/runtime~main.1f0e0e85.js",
+  "runtime~main.js.map": "/rhodanrsc/static/js/runtime~main.1f0e0e85.js.map",
+  "static/css/main.6e556da7.chunk.css.map": "/rhodanrsc/static/css/main.6e556da7.chunk.css.map",
+  "index.html": "/rhodanrsc/index.html",
+  "precache-manifest.ca3664de1263bc448ffbb4648133766a.js": "/rhodanrsc/precache-manifest.ca3664de1263bc448ffbb4648133766a.js",
+  "service-worker.js": "/rhodanrsc/service-worker.js"
 }
