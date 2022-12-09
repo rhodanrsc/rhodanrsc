@@ -1,9 +1,9 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://rhodanrsc.github.io/rhodanrsc/",
     "name": "Rhodan Cervantes",
     "role": "Full-stack Developer",
     "linkedinId":"www.linkedin.com/in/rhodanc",
-    "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I like tinkering with various parts of frontend development and like to learn about new technologies, practicing different languages or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -19,7 +19,7 @@ let resumeData = {
     "aboutme":"I am currently a pre-final year student at Southern Alberta Institute of Technology and pursuing my Software Development Diploma. I am a Full Stack Developer, in both Java and React. I am currently teaching myself Python to build a foundation to dive deeper into machine learning. I am an ambitious, hardworking individual and want to expand my knowledge of the tech industry.",
     "address":"Calgary, AB",
     "number":"587-876-9011",
-    "website":"https://rbhatia46.github.io",
+    "website":"https://rhodanrsc.github.io/rhodanrsc/",
     "education":[
       {
         "UniversityName":"Southern Alberta Institute of Technology",
@@ -70,26 +70,26 @@ let resumeData = {
       }
     ],
     "portfolio":[
-      {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
+      // {
+      //   "name":"project1",
+      //   "description":"mobileapp",
+      //   "imgurl":"images/portfolio/phone.jpg"
+      // },
+      // {
+      //   "name":"project2",
+      //   "description":"mobileapp",
+      //   "imgurl":"images/portfolio/project.jpg"
+      // },
+      // {
+      //   "name":"project3",
+      //   "description":"mobileapp",  
+      //   "imgurl":"images/portfolio/project2.png"
+      // },
+      // {
+      //   "name":"project4",
+      //   "description":"mobileapp",
+      //   "imgurl":"images/portfolio/phone.jpg"
+      // }
     ],
     "testimonials":[
       {
