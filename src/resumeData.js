@@ -85,20 +85,10 @@ let resumeData = {
       //   "description":"mobileapp",  
       //   "imgurl":"images/portfolio/project2.png"
       // },
-      // {
-      //   "name":"project4",
-      //   "description":"mobileapp",
-      //   "imgurl":"images/portfolio/phone.jpg"
-      // }
-    ],
-    "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "name":"Clean Collective",
+        "description":"React Web App - WIP",
+        "imgurl":"images/portfolio/Clean Collective.jpg"
       }
     ]
   }
