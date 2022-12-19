@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2bb88be1aa603aff4118",
+    "revision": "ac40db99efd50a225555",
     "url": "/rhodanrsc/static/css/main.96217740.chunk.css"
   },
   {
-    "revision": "2bb88be1aa603aff4118",
-    "url": "/rhodanrsc/static/js/main.2bb88be1.chunk.js"
+    "revision": "ac40db99efd50a225555",
+    "url": "/rhodanrsc/static/js/main.ac40db99.chunk.js"
   },
   {
     "revision": "6eb6405c9d99258624bc",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/rhodanrsc/static/js/runtime~main.1f0e0e85.js"
   },
   {
-    "revision": "1969cb31024ed9197c0c9953e45ed3d7",
+    "revision": "fd30c3c7666d61a79009d82f775cc100",
     "url": "/rhodanrsc/index.html"
   }
 ];
