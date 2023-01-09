@@ -26,7 +26,7 @@ let resumeData = {
         "specialization":"Information Technology - Software Development",
         "MonthOfPassing":"Dec",
         "YearOfPassing":"2022",
-        "Achievements":""
+        "Achievements":"Developed an MVP for a clean tech networking website with a team of 6"
       }
     ],
     "work":[
@@ -42,7 +42,7 @@ let resumeData = {
         "specialization":"Capstone Project - Clean Collective",
         "MonthOfLeaving":"Dec",
         "YearOfLeaving":"2022",
-        "Achievements":"Worked with Avatar Innovations and a client to help develop Clean Collective with a team of 6, expanding my knowledge on project management. This was done through the help of multiple C-level executives to help understand and build the MVP of Clean Collective and stakeholder engagement."
+        "Achievements":"Worked with Avatar Innovations and a client to help develop Clean Collective with a team of 6, expanding my knowledge on project management. This was done with the help of multiple C-level executives to help understand and build the MVP of Clean Collective and stakeholder engagement."
       }
     ],
     "skillsDescription":"",
@@ -57,7 +57,16 @@ let resumeData = {
         "skillname":"JavaScript"
       },
       {
+        "skillname":"MongoDB"
+      },
+      {
+        "skillname":"Expressjs"
+      },
+      {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"Nodejs"
       },
       {
         "skillname":"Java"

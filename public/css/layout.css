@@ -363,10 +363,28 @@ ul#nav li.current a { color: #db148f; }
   	-webkit-animation: javascript 2s ease;
 }
 
-.reactjs {
+.mongodb {
+   width: 65%;
+  	-moz-animation: mongodb 2s ease;
+  	-webkit-animation: mongodb 2s ease;
+}
+
+.expressjs {
    width: 75%;
+  	-moz-animation: expressjs 2s ease;
+  	-webkit-animation: expressjs 2s ease;
+}
+
+.reactjs {
+   width: 80%;
   	-moz-animation: reactjs 2s ease;
   	-webkit-animation: reactjs 2s ease;
+}
+
+.nodejs {
+   width: 75%;
+  	-moz-animation: nodejs 2s ease;
+  	-webkit-animation: nodejs 2s ease;
 }
 
 .java {
