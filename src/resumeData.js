@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Rhodan Cervantes",
     "role": "Full-stack Developer",
     "linkedinId":"www.linkedin.com/in/rhodanc",
-    "roleDescription": " I like tinkering with various parts of frontend development and like to learn about new technologies, practicing different languages or simply play games in my free time.",
+    "roleDescription": " I like working with various parts of frontend development and like to learn about new technologies, practicing different languages or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -16,9 +16,9 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at Southern Alberta Institute of Technology and pursuing my Software Development Diploma. I am a Full Stack Developer, in both Java and React. I am currently teaching myself Python to build a foundation to dive deeper into machine learning. I am an ambitious, hardworking individual and want to expand my knowledge of the tech industry.",
+    "aboutme":"I am graduate from Southern Alberta Institute of Technology and have completed my Software Development Diploma. I am a Full Stack Developer, in both Java and React. I am currently teaching myself Python to build a foundation to dive deeper into machine learning.",
     "address":"Calgary, AB",
-    "number":"587-876-9011",
+    "number":"",
     "website":"https://rhodanrsc.github.io/rhodanrsc/",
     "education":[
       {
@@ -26,7 +26,7 @@ let resumeData = {
         "specialization":"Information Technology - Software Development",
         "MonthOfPassing":"Dec",
         "YearOfPassing":"2022",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       }
     ],
     "work":[
@@ -45,7 +45,7 @@ let resumeData = {
         "Achievements":"Worked with Avatar Innovations and a client to help develop Clean Collective with a team of 6, expanding my knowledge on project management. This was done through the help of multiple C-level executives to help understand and build the MVP of Clean Collective and stakeholder engagement."
       }
     ],
-    "skillsDescription":"Here are some of the skills I have acquired related to software development",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname":"HTML5"
@@ -80,11 +80,11 @@ let resumeData = {
       //   "description":"mobileapp",
       //   "imgurl":"images/portfolio/project.jpg"
       // },
-      // {
-      //   "name":"project3",
-      //   "description":"mobileapp",  
-      //   "imgurl":"images/portfolio/project2.png"
-      // },
+      {
+        "name":"New City Bakeries",
+        "description":"Static Web Page",  
+        "imgurl":"images/portfolio/NewCityBakeries.jpg"
+      },
       {
         "name":"Clean Collective",
         "description":"React Web App - WIP",
