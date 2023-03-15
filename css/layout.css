@@ -1037,3 +1037,46 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+
+
+
+
+
+/* --------------------------------- */
+
+
+
+.overlay {
+   display: block;
+   
+   background-color: rgba(0, 0, 0, 85%);
+   position: fixed;
+   height: auto;
+   width: 50%;
+   text-align: center;
+   padding: 3em;
+   margin: 0 auto;
+   top: 16%;
+   left: 0.5%;
+   right: 0;
+   z-index: 1;
+}
+
+.overlay > * {
+   margin: 0 auto;
+   opacity: 100%;
+}
+
+.overlay #exit {
+   display: inline;
+   float: left;
+}
+
+.overlay p {
+   color: white;
+   display: block;
+   font-size: xx-large;
+   margin: 200px auto;
+   float: none;
+   width: 15em;
+}
